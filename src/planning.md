@@ -4,3 +4,4 @@ Stage 1
 [x] display the data
 
 Stage 2 
+[x] add delete button to each item on the list
